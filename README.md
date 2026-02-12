@@ -8,8 +8,8 @@
   <a href="https://www.instagram.com/frzgusta/">
     <img src="https://img.shields.io/badge/-@frzgusta-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/gustaf30">
-    <img src="https://img.shields.io/badge/-gustaf30-181717?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/gustavo-p-ferraz/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=gustavo-p-ferraz" />
   </a>
 </p>
 

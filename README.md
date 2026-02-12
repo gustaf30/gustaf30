@@ -34,19 +34,6 @@ I'm a developer focused on **TypeScript** and the **Node.js** ecosystem, buildin
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**cheerconnect**](https://github.com/gustaf30/cheerconnect) | Connection and interaction platform | TypeScript |
-| [**accodal-gustavo**](https://github.com/gustaf30/accodal-gustavo) | Technical challenge — Accodal | TypeScript |
-| [**valor-disparador-boletos**](https://github.com/gustaf30/valor-disparador-boletos) | Billing slip dispatch and management system | TypeScript |
-| [**machine-learning**](https://github.com/gustaf30/machine-learning) | ML experiments and studies | Python |
-| [**union-challenge**](https://github.com/gustaf30/union-challenge) | Back-end API — Union challenge | TypeScript |
-| [**union-challenge-front**](https://github.com/gustaf30/union-challenge-front) | Front-end — Union challenge | TypeScript |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
